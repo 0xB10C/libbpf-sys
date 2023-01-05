@@ -2,9 +2,6 @@
 
 use std::env;
 use std::fs;
-use std::io;
-use std::io::prelude::*;
-use std::os::unix::prelude::*;
 use std::path;
 use std::process;
 
